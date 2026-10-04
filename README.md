@@ -1,5 +1,4 @@
-# E2EE Messenger — COMP 5355 Project (Task 1)
-
+# E2EE Messenger
 End-to-End Encrypted one-to-one messaging system.  
 Plaintext exists only at the two communicating endpoints; the relay server and the network handle ciphertext only.
 
