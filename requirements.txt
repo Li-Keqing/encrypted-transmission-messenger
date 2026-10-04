@@ -1,0 +1,10 @@
+# E2EE Messenger — Python dependencies
+#
+# Cryptographic library (MANDATED CATEGORY — course requires a vetted library):
+PyNaCl==1.5.0          # Python bindings for libsodium (Ed25519, X25519, XSalsa20-Poly1305)
+#
+# Networking (optional choice — WebSocket chosen for full-duplex real-time delivery):
+websockets==12.0       # asyncio WebSocket client and server
+#
+# No other runtime dependencies.
+# SQLite3 is part of the Python standard library (no separate install needed).
