@@ -7,5 +7,7 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 server/relay.db
+server/*.db-shm
+server/*.db-wal
 *.db
 *.sqlite3
